@@ -1,0 +1,13 @@
+{
+  "name": "canvas-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Canvas assignment data with jQuery and JSDOM and prints it to the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jquery": "3.7.1",
+    "jsdom": "^24.0.0"
+  }
+}
